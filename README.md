@@ -1,6 +1,3 @@
-# Updates
-As this has not been updates in more than a year, will continue to add for my use. 
-
 # Awesome Sysadmin
 A curated list of amazingly awesome open source sysadmin resources.
 
